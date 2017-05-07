@@ -1,0 +1,7 @@
+$ cat .gitignore
+*.tmp
+*.py-копия
+*~
+~*
+my_file1.txt
+my_file2.txt
